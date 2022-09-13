@@ -9,14 +9,14 @@ body {
     flex-direction: column;
     align-content: center;
     width: 300px;
-    border: 1px solid red;
+    
 
 }
 
 img {
     border-radius: 5%;
     width: 300px;
-    border: 1px solid green;
+    
 
 }
 
